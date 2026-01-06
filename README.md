@@ -1,4 +1,4 @@
-# 📱 Motorola Sales Analysis – Power BI Dashboard
+# 📱 Mobile Sales Analysis – Power BI Dashboard
 
 ## 📊 Overview
 This Power BI dashboard provides a comprehensive analysis of Motorola mobile sales across cities, months, payment methods, and mobile models.  
